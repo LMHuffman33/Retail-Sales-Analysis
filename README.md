@@ -77,14 +77,13 @@ This project demonstrates the following SQL skills:
 ## Project Files
 
 ```text
-retail-sales-sql-analysis/
+retail-sales-analysis/
 │
-├── README.md
 ├── retail_sales_project.db
 │
 └── sql/
     ├── 01_table_setup.sql
-    ├── 02_insert_data.sql
+    ├── 02_dataset.sql
     ├── 03_table_checks.sql
     ├── 04_sql_checks.sql
-    └── 05_analysis_queries.sql
+    └── 05_queries.sql
